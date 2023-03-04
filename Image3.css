@@ -1,0 +1,42 @@
+h1 {
+    text-decoration: underline;
+    text-decoration-style: solid
+}
+
+#Here {
+    font-size: 25px;
+    color: blue;
+}
+
+a {
+    color: orange;
+}
+
+.add {
+    font-size: 24px;
+
+}
+
+.list {
+    font-size: 24px;
+
+
+}
+
+
+.cr{
+        list-style: circle;
+        margin-left: 55px;
+        color: blue;
+}
+
+
+.idd {
+    color: red;
+}
+
+#none{ 
+        list-style: none;
+        color: blue;
+        margin-left: 110px;
+}

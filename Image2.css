@@ -1,0 +1,95 @@
+.fath {
+    margin: 0 auto;
+    margin-top: 30px;
+    height: 5in;
+    width: 7in;
+    background-color: #fafcea;
+    border-right: 3px black solid;
+}
+
+#first {
+    position: relative;
+    left: 7px;
+    right: 30px;
+    top: 11px;
+    bottom: 25px;
+}
+
+.son1 {
+    font-size: smaller;
+    height: 22%;
+    width: 30%;
+    overflow: hidden;
+    background-color: rgb(234, 234, 237);
+    position: relative;
+    left: 7px;
+    right: 20px;
+    top: 11px;
+    bottom: 25px;
+}
+
+.son2 {
+    font-size: smaller;
+    height: 22%;
+    width: 30%;
+    overflow: hidden;
+    background-color: rgb(234, 234, 237);
+    position: relative;
+    left: 221px;
+    right: 10px;
+    top: -94px;
+    bottom: 5px;
+}
+
+
+.son3 {
+    font-size: smaller;
+    height: 22%;
+    width: 30%;
+    overflow: hidden;
+    background-color: rgb(234, 234, 237);
+    position: relative;
+    left: 437px;
+    right: 36px;
+    top: -199px;
+    bottom: 5px;
+}
+
+
+.son4 {
+    font-size: smaller;
+    height: 22%;
+    width: 30%;
+    overflow: hidden;
+    background-color: rgb(234, 234, 237);
+    position: relative;
+    left: 7px;
+    right: 32px;
+    top: -121px;
+    bottom: 9px;
+}
+
+
+.son5 {
+    font-size: smaller;
+    height: 22%;
+    width: 30%;
+    overflow: hidden;
+    background-color: rgb(234, 234, 237);
+    position: relative;
+    left: 221px;
+    right: 8px;
+    top: -227px;
+    bottom: 5px;
+}
+
+.articels {
+    border-bottom: 2px black solid;
+    border-top: 2px black solid;
+    width: 657px;
+    height: 53px;
+    overflow: auto;
+    margin-right: 10px;
+    margin-top: -400px;
+    margin-left: 13px;
+}

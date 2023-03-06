@@ -1,10 +1,10 @@
-div:nth-child(odd) {
+.sq:nth-child(odd) {
     background-color: #ffff00;
     width: 40px;
     height: 40px;
 }
 
-div:nth-child(even) {
+.sq:nth-child(even) {
     background-color: green;
     width: 40px;
     height: 40px;
@@ -13,7 +13,7 @@ div:nth-child(even) {
 }
 
 
-div {
+.sq {
     display: inline-block;
     margin: 5px;
     margin-top: 30px;
@@ -21,5 +21,18 @@ div {
 }
 
 
-h3{margin-top: 150px;  }
+h3 {
+    margin-top: 150px;
+}
 
+.num {
+    width: 60px;
+    height: 25px;
+    background-color: red;
+    display: inline-block;
+    border: 1px black solid;
+    text-align: center;
+    color: white;
+}
+
+.num:nth-child(even) { display: none;}
